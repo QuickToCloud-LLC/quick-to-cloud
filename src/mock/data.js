@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Andru Estes',
-  subtitle: 'I am a Cloud Architect and Instructor',
+  subtitle: 'Cloud Architect and IT Instructor',
   cta: 'About Me',
 };
 
@@ -47,9 +47,9 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'pluralsight.png',
-    title: 'Pluralsight',
-    info: 'Check out my video courses focused on cloud computing',
-    info2: 'My courses range from deep dives into specific services, all the way to certification prep.',
+    title: 'Pluralsight Courses',
+    info: 'Check out my video courses that I partnered with Pluralsight with.',
+    info2: 'These courses range from deep dives into specific services all the way to certification prep.',
     url: 'https://app.pluralsight.com/profile/author/andru-estes',
     repo: '', // if no repo, the button will not show up
   },
@@ -58,7 +58,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: '',
-  btn: 'Let\'s Connect!',
+  btn: 'Contact Me',
   email: 'andru.estes@quicktocloud.io',
 };
 
