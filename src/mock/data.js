@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Andru Estes', // e.g: 'Name | Developer'
+  title: 'Andru Estes | Architect & Instructor', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Welcome to my website!', // e.g: Welcome to my website
 };
@@ -57,7 +57,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
+  cta: 'Want me to work with you?',
   btn: 'Contact Me',
   email: 'andru.estes@quicktocloud.io',
 };
