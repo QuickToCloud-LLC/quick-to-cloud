@@ -57,7 +57,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Want me to work with you?',
+  cta: 'Want to work with me?',
   btn: 'Contact Me',
   email: 'andru.estes@quicktocloud.io',
 };
