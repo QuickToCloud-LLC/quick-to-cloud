@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'certs.png',
+    title: 'Current Certifications',
+    info: 'If you are interested in seeing what certifications I have acheived, they are here.',
+    info2: 'I do my best to keep this up to date!',
+    url: 'https://www.linkedin.com/in/robertandruestes/details/certifications/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'pluralsight.png',
     title: 'Pluralsight Courses',
     info: 'Check out my video courses that I partnered with Pluralsight with.',
