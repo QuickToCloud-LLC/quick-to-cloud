@@ -11,16 +11,16 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Andru Estes',
-  subtitle: 'Cloud Architect and IT Instructor',
+  subtitle: 'Cloud Architect and Course Author',
   cta: 'About Me',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'me.jpg',
-  paragraphOne: 'Andru Estes is an Enterprise Cloud Architect and Consultant. He has more than a decade of experience with enterprise systems, ranging from single VMware clusters to globally distributed public cloud applications.',
-  paragraphTwo: 'In addition to his technical work, Andru also enjoys creating content for people to consume to better their skillsets.',
-  paragraphThree: 'In his spare time, Andru enjoys working out, playing golf, and working with his two Australian Shepherds (Archie and Zoey).',
+  paragraphOne: 'Andru Estes is an enterprise cloud architect and IT consultant.',
+  paragraphTwo: 'In addition to his technical work, Andru enjoys creating technical trainging content for people to consume in order to better their skillsets.',
+  paragraphThree: 'In his spare time, Andru enjoys working out, playing golf, and training his two Australian Shepherds (Archie and Zoey).',
   linkedin: 'https://linkedin.com/in/robertandruestes', // if no resume, the button will not show up
 };
 
