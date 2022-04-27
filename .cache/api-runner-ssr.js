@@ -1,12 +1,12 @@
 var plugins = [{
-      plugin: require('/Users/Andru/Documents/GitHub/my-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/Andru/Documents/my-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Andru/Documents/GitHub/my-site/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/Andru/Documents/my-site/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Andru/Documents/GitHub/my-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Gatsby Simplefolio","short_name":"Simplefolio","start_url":"/","background_color":"#fff","theme_color":"#02aab0","display":"standalone","icon":"src/images/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"4ccd13523eddd3694feac28b19d11786"},
+      plugin: require('C:/Users/Andru/Documents/my-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"Gatsby Simplefolio","short_name":"Simplefolio","start_url":"/","background_color":"#fff","theme_color":"#02aab0","display":"standalone","icon":"src/images/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"cbc9df20623d3e3df4d8b70eb32d4523"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
